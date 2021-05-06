@@ -30,8 +30,8 @@ Siapin alat dan bahannya.
 > pkg install git -y
 > pkg install bash -y
 > pkg install mc -y
-> git clone https://github.com/michaelagam03/MceLBOT
-> cd MceLBOT
+> git clone https://github.com/michaelagam03/BotWa
+> cd BotWa
 > bash install.sh
 > npm start
 > SCAN DAH BRO MHEHE EZ KAN:V
